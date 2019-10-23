@@ -5,6 +5,8 @@ This is a library that displays View in a popup.
 [![License](https://img.shields.io/cocoapods/l/PopupViewSwiftUI.svg?style=flat)](https://cocoapods.org/pods/PopupViewSwiftUI)
 [![Platform](https://img.shields.io/cocoapods/p/PopupViewSwiftUI.svg?style=flat)](https://cocoapods.org/pods/PopupViewSwiftUI)
 
+![demo](https://user-images.githubusercontent.com/14210434/67377737-16b58980-f5c1-11e9-8c8d-fdbab0dbe3eb.gif)
+
 # Usage
 
 ## ParentView
