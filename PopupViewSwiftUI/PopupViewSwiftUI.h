@@ -2,7 +2,7 @@
 //  PopupViewSwiftUI.h
 //  PopupViewSwiftUI
 //
-//  Created by 中川 正貴 on 2019/10/23.
+//  Created by Masataka Nakagawa on 2019/10/23.
 //  Copyright © 2019 Masataka Nakagawa. All rights reserved.
 //
 
